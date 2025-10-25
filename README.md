@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Suleiman Hussein and I'm a Full-Stack Developer | MERN stack from Somalia.</p>
+<p align="left">My name is Suleiman Hussein and I'm a Full-Stack Developer | MERN Stack from Somalia.</p>
 
 <h2 align="left">About me</h2>
 
@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Suleimanhussein&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleimanhussein&layout=compact&theme=dracula" height="150" alt="Top Languages" />
   <br><br>
-  <img src="https://profile-counter.glitch.me/Suleimanhussein/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Suleimanhussein&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <h2 align="left">Connect with me</h2>
