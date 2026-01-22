@@ -32,14 +32,6 @@ I build modern web apps, break things, fix them, and ship again.
 📦 Clean APIs, scalable backends, and modern UIs
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suleimanhussein&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleimanhussein&layout=compact&theme=dracula" height="150" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Suleimanhussein&style=flat-square&color=blue" />
-</div>
-
 <h2 align="left">Let’s connect</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/suleiman-hussein-99631a29a/" target="_blank">
