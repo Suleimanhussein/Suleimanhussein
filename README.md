@@ -1,17 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I’m Suleiman</h1>
 
-<p align="left">My name is Suleiman Hussein and I'm a Full-Stack Developer | MERN Stack from Somalia.</p>
+<p align="left">
+Full-Stack Developer (MERN) from Somalia 🇸🇴 <br>
+I build modern web apps, break things, fix them, and ship again.
+</p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2022 <br>
-📚 Currently learning React, Next.js, and AI development <br>
-🎯 Goal: Become an expert in MERN Stack & AI <br>
-🎲 Fun fact: I love solving coding challenges late at night
+✨ Turning coffee into bugs since 2022 <br>
+📚 Currently deep-diving into React, Next.js & AI development <br>
+🎯 Mission: Master MERN Stack and transition into AI-powered products <br>
+🌙 Fun fact: My best debugging happens after midnight
 </p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -22,20 +25,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
-<h2 align="left">GitHub Stats & Profile Views</h2>
+<h2 align="left">What I’m working on</h2>
+<p align="left">
+🚀 Full-stack web applications <br>
+🧠 Exploring AI integrations in real-world products <br>
+📦 Clean APIs, scalable backends, and modern UIs
+</p>
+
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suleimanhussein&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleimanhussein&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suleimanhussein&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleimanhussein&layout=compact&theme=dracula" height="150" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Suleimanhussein&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Suleimanhussein&style=flat-square&color=blue" />
 </div>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Let’s connect</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/suleiman-hussein-99631a29a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:suleymaanxuseen24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
